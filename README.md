@@ -1,5 +1,7 @@
 # GameSales_PowerBI_Insights_Project!
 
+Power BI project analyzing video game sales data (16,598 games) to uncover global trends, regional preferences, and top performers.
+
 Overview
 This project uses Power BI to analyze and visualize video game sales data, covering 16,598 games from various regions and genres. It provides insights into sales trends, genre popularity, and top-performing games globally.
 
